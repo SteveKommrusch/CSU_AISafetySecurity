@@ -25,7 +25,9 @@ AI presents opportunities to greatly improve medicine, product development, and 
 # [Further related reading](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Related-reading)
 
 # Editing notes
-    * This page is normal 'github' page and you need to commit changes after editing this README.md file
-    * Other pages in this repository are wiki pages which are easier to edit.
-      * To add a file into this repo, edit a wiki page (create a new category wiki page if needed) and drag the file into the edit window. (For example, see Security-of-AI.pdf in "Further related reading").
-    * Please try to keep this top-level page rather clean but feel free to add brainstorm ideas, meeting notes, etc, in the wiki area.
+  * This page is a normal 'github' page and you need to commit changes after editing this README.md file
+  * Other pages in this repository are wiki pages which are easier to edit.
+    * [Github's document about wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
+    * To add a new wiki page, you can click on 'wiki' and create a unique new title for the page.
+    * To add a file into this repo, edit a wiki page (create a new category wiki page if needed) and drag the file into the edit window. (For example, see Security-of-AI.pdf in "Further related reading").
+  * Please try to keep this top-level page rather clean but feel free to add brainstorm ideas, meeting notes, etc, in the wiki area.
