@@ -22,4 +22,4 @@ AI presents opportunities to greatly improve medicine, product development, and 
     * Working Group #4: Red-Teaming
     * Working Group #5: Safety & Security
 
-# [Further related reading](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Related Reading)
+# [Further related reading](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Related-reading)
