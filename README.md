@@ -22,6 +22,4 @@ AI presents opportunities to greatly improve medicine, product development, and 
     * Working Group #4: Red-Teaming
     * Working Group #5: Safety & Security
 
-# Further related reading
-  * 2019 report from UC Berkeley surveying global state of AI security: [Full report](https://cltc.berkeley.edu/wp-content/uploads/2019/02/Toward_AI_Security.pdf) [Executive summary](https://cltc.berkeley.edu/wp-content/uploads/2019/02/CLTC_Cussins_Toward_AI_Security_Exec_Summ.pdf)
-  * Some initial thoughts on research towards making AI/ML tools and techniques more trustworthy: [Security of AI/ML Tools and Techniques](https://github.com/indrajit-ray/Security_for_AI/blob/main/Security-for-AI.pdf)
+# [Further related reading](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Related Reading)
