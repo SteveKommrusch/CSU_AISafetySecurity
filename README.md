@@ -24,6 +24,8 @@ AI presents opportunities to greatly improve medicine, product development, and 
 
 # [Further related reading](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Related-reading)
 
+# [Meeting notes](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Meeting-notes)
+
 # Editing notes
   * This page is a normal 'github' page and you need to commit changes after editing this README.md file
   * Other pages in this repository are wiki pages which are easier to edit.
