@@ -16,11 +16,11 @@ AI presents opportunities to greatly improve medicine, product development, and 
 # Currently active NIST US AI Safety Institute Consortium
   * The CSU AI Safety and Security group discussion page related to USAISIC is [here](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/USAISIC)
   * There are 5 workgroups within the USAISIC:
-    * Working Group #1: Risk Management for Generative AI [CSU AI Safety and Security discussion and notes](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Working-Group-%231%3A-Risk-Management-for-Generative-AI)
-    * Working Group #2: Synthetic Content
-    * Working Group #3: Capability Evaluations
-    * Working Group #4: Red-Teaming
-    * Working Group #5: Safety & Security
+    * [Working Group #1: Risk Management for Generative AI](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Working-Group-%231%3A-Risk-Management-for-Generative-AI)
+    * [Working Group #2: Synthetic Content](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Working-Group-%232%3A-Synthetic-Content)
+    * [Working Group #3: Capability Evaluations](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Working-Group-%233%3A-Capability-Evaluations)
+    * [Working Group #4: Red-Teaming](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Working-Group-%234%3A-Red-Teaming)
+    * [Working Group #5: Safety & Security](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Working-Group-%235%3A-Safety-%26-Security)
 
 # [Further related reading](https://github.com/SteveKommrusch/CSU_AISafetySecurity/wiki/Related-reading)
 
